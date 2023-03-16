@@ -1,0 +1,6 @@
+fer
+matplotlib
+cv2
+moviepy
+tensorflow
+deepFace
